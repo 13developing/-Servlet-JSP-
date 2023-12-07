@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/book/book/showBook.jsp" value="file://$PROJECT_DIR$/src/main/webapp/book/book" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/book/borrowCard/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/book/borrowCard" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/book/student/addOrUpdate.jsp" value="file://$PROJECT_DIR$/src/main/webapp/book/student" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/main.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sys/menu/addOrUpdate.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sys/menu" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sys/menu/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sys/menu" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sys/modify/modifyPage.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sys/modify" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sys/role/addOrUpdate.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sys/role" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sys/user/addOrUpdate.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sys/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/sys/user/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/sys/user" />
+      </map>
+    </option>
+  </component>
+</project>
