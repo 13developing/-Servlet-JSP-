@@ -7,7 +7,7 @@
 #### 管理员页面
 .<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071413384.png" width="800" height="450">
 ### 管理员功能菜单显示
-.<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071413886.png" width="300" height="450">.<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071428991.png" width="300" height="450">.<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071413436.png" width="300" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071413886.png" width="300" height="450"><img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071428991.png" width="300" height="450"><img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071413436.png" width="300" height="450">
 ### 部分功能展示
 <img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425011.png" width="1500" height="450">
 
