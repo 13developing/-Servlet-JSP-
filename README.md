@@ -13,22 +13,22 @@
 
 <img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425010.png" width="1800" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425009.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425009.png" width="2000" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071441931.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071441931.png" width="2000" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425007.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425007.png" width="2000" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425006.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071425006.png" width="2000" height="450">
 
 ### 学生用户相关展示
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071431861.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071431861.png" width="2000" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071431862.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071431862.png" width="2000" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071434398.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071434398.png" width="2000" height="450">
 
-<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071431864.png" width="1800" height="450">
+<img src="https://forming1picgp.oss-cn-nanjing.aliyuncs.com/img/202312071431864.png" width="2000" height="450">
 
 ### 系统使用相关：
 ***学生的添加只能由管理员进行添加***
